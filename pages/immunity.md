@@ -56,7 +56,7 @@ To showcase the idea we use 5 countries having different vaccination timeframes.
 
 Explore charts for other countries and [share](forum.html) what you think. Take into account that this methodology is very approximate as the numbers depend on the healthcare and vaccines efficacy in the exact country. This table uses 7 day moving averages for deaths and cases:
 
-```yaml table
+```yaml correlation
 {% with %}
 {% include 'blocks/tables/immunity.yaml' %}
 {% endwith %}

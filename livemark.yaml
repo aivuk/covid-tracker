@@ -11,6 +11,8 @@ site:
   favicon: assets/covid.svg
   styles:
     - style.css
+correlationtable: true
+
 pages:
   items:
     - path: index
