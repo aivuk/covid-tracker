@@ -1,7 +1,7 @@
 import json
 import yaml
 from frictionless import Resource, Detector
-from frictionless.plugin import Plugin
+from livemark.plugin import Plugin
 
 class CorrelationTablePlugin(Plugin):
     identity = "correlation"
